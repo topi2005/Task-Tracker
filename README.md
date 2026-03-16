@@ -149,6 +149,3 @@ task-cli/
 
 ---
 
-## License
-
-MIT
